@@ -104,36 +104,36 @@ Highlighted work:
 
 ```text
 Data-science/
-â”œâ”€â”€ Data Science/
-â”‚   â”œâ”€â”€ Week 1.ipynb
-â”‚   â”œâ”€â”€ Week 2.ipynb
-â”‚   â”œâ”€â”€ Week 3.ipynb
-â”‚   â”œâ”€â”€ Week 4.ipynb
-â”‚   â”œâ”€â”€ Assignment 2- Using pandas.ipynb
-â”‚   â”œâ”€â”€ Assignment 3-Using pandas.ipynb
-â”‚   â”œâ”€â”€ Assignment 4-Hypothesis Testing.ipynb
-â”‚   â””â”€â”€ supporting datasets
-â”œâ”€â”€ Applied machine learning in python/
-â”‚   â”œâ”€â”€ Assignments 1â€“4
-â”‚   â”œâ”€â”€ Modules 1â€“4
-â”‚   â”œâ”€â”€ Classifier Visualization.ipynb
-â”‚   â”œâ”€â”€ Unsupervised Learning.ipynb
-â”‚   â””â”€â”€ supporting datasets and utilities
-â”œâ”€â”€ Applied plotting, charting & data representation in python/
-â”‚   â”œâ”€â”€ Assignments 2â€“4
-â”‚   â”œâ”€â”€ Week 2â€“4 notebooks
-â”‚   â”œâ”€â”€ visualization exercises
-â”‚   â””â”€â”€ supporting datasets and images
-â”œâ”€â”€ Applied text mining in python/
-â”‚   â”œâ”€â”€ Assignments 1â€“4
-â”‚   â”œâ”€â”€ Case Study - Sentiment Analysis.ipynb
-â”‚   â”œâ”€â”€ text-processing notebooks
-â”‚   â””â”€â”€ supporting text datasets
-â”œâ”€â”€ Applied social network analysis in python/
-â”‚   â”œâ”€â”€ Assignments 1â€“4
-â”‚   â”œâ”€â”€ NetworkX demonstrations
-â”‚   â””â”€â”€ graph and relationship datasets
-â””â”€â”€ README.md
+├── Data Science/
+│   ├── Week 1.ipynb
+│   ├── Week 2.ipynb
+│   ├── Week 3.ipynb
+│   ├── Week 4.ipynb
+│   ├── Assignment 2- Using pandas.ipynb
+│   ├── Assignment 3-Using pandas.ipynb
+│   ├── Assignment 4-Hypothesis Testing.ipynb
+│   └── supporting datasets
+├── Applied machine learning in python/
+│   ├── Assignments 1–4
+│   ├── Modules 1–4
+│   ├── Classifier Visualization.ipynb
+│   ├── Unsupervised Learning.ipynb
+│   └── supporting datasets and utilities
+├── Applied plotting, charting & data representation in python/
+│   ├── Assignments 2–4
+│   ├── Week 2–4 notebooks
+│   ├── visualization exercises
+│   └── supporting datasets and images
+├── Applied text mining in python/
+│   ├── Assignments 1–4
+│   ├── Case Study - Sentiment Analysis.ipynb
+│   ├── text-processing notebooks
+│   └── supporting text datasets
+├── Applied social network analysis in python/
+│   ├── Assignments 1–4
+│   ├── NetworkX demonstrations
+│   └── graph and relationship datasets
+└── README.md
 ```
 
 ## Getting Started
