@@ -6,7 +6,8 @@ This repo contains my data science portfolio in Python. This portfolio has sever
 
 ## Project Structure
 Data-science:\
-├── Applied machine learning in python:
+
+├── Applied machine learning in python:\
 │   ├── Assignment 1 Machine Learning.ipynb\
 │   ├── Assignment 2 Regression and Machine Learning.ipynb\
 │   ├── Assignment 3 SVC and Logistic regression.ipynb\
@@ -88,7 +89,7 @@ Data-science:\
 │   ├── mygrammar.cfg \
 │   ├── newsgroups \
 │   ├── paraphrases.csv \
-│   └── spam.csv 
+│   └── spam.csv \
 └── README.md
 
 
