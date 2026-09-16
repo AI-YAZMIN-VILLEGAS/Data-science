@@ -1,165 +1,195 @@
 # Data Science Portfolio
 
-This repository contains practical projects, assignments, and case studies completed while developing skills in data science with Python. The work covers machine learning, data visualization, social network analysis, and text mining.
+A collection of applied data-science notebooks and assignments completed in Python. The repository demonstrates practical experience in data analysis, visualization, machine learning, natural language processing, and network analysis using real-world datasets.
 
-## Areas Covered
+## Portfolio Overview
 
-### Applied Machine Learning in Python
+| Area | What the work demonstrates | Main tools |
+| --- | --- | --- |
+| Data analysis | Data cleaning, manipulation, merging, aggregation, and hypothesis testing | Python, Pandas, NumPy, SciPy |
+| Data visualization | Exploratory graphics, statistical plots, custom visualizations, and visual design principles | Matplotlib, Pandas |
+| Machine learning | Classification, regression, clustering, model selection, and performance evaluation | Scikit-learn |
+| Text mining | Regular expressions, NLP, spam detection, sentiment analysis, document similarity, and topic modeling | NLTK, Pandas, Scikit-learn |
+| Network analysis | Graph construction, connectivity, centrality, link prediction, and network visualization | NetworkX, Pandas |
 
-- Supervised and unsupervised learning
-- Classification and regression
-- Logistic regression and support vector machines
-- Model evaluation and classifier visualization
-- Practical analysis using real-world datasets
+## Repository Sections
 
-### Applied Plotting, Charting, and Data Representation in Python
+### 1. Data Science Foundations
 
-- Exploratory data analysis
-- Statistical visualization
-- Matplotlib chart design
-- Three-dimensional visualization
-- Distribution analysis and sampling
+[`Data Science/`](Data%20Science/)
 
-### Applied Social Network Analysis in Python
+Python and Pandas exercises covering data structures, cleaning, transformation, joins, aggregation, and statistical analysis.
 
-- Graph creation and manipulation
-- Network connectivity
-- Centrality measures
-- Graph features
-- Link prediction and future connections
-- Network visualization with NetworkX
+Highlighted work:
 
-### Applied Text Mining in Python
+- Introduction to Pandas and tabular data analysis
+- DataFrame merging and reshaping
+- Analysis of energy, GDP, university, census, housing, and sports datasets
+- Hypothesis testing with university-town housing data
 
-- Text preprocessing and regular expressions
-- Natural Language Toolkit (NLTK)
-- Spam classification
+### 2. Applied Machine Learning
+
+[`Applied machine learning in python/`](Applied%20machine%20learning%20in%20python/)
+
+Supervised and unsupervised learning projects focused on building, evaluating, and interpreting predictive models.
+
+Highlighted work:
+
+- Breast-cancer classification using the Wisconsin Diagnostic Dataset
+- Regression and classification model-complexity analysis
+- Fraud-detection model evaluation
+- Prediction of property-maintenance fine compliance
+- Classifier decision-boundary visualization
+- Clustering and dimensionality-reduction exercises
+
+Methods include logistic regression, support vector machines, decision trees, random forests, gradient boosting, nearest neighbors, regression models, principal component analysis, and clustering.
+
+### 3. Applied Plotting, Charting, and Data Representation
+
+[`Applied plotting, charting & data representation in python/`](Applied%20plotting%2C%20charting%20%26%20data%20representation%20in%20python/)
+
+Notebooks exploring effective visual communication and statistical graphics with Matplotlib and Pandas.
+
+Highlighted work:
+
+- Historical climate-record visualization
+- Custom statistical visualization using confidence intervals
+- Comparative visualization of religious populations in Mexico
+- Histograms, box plots, heatmaps, subplots, and animations
+- Three-dimensional plotting and distribution sampling
+- Chart decluttering and design improvement
+
+### 4. Applied Text Mining
+
+[`Applied text mining in python/`](Applied%20text%20mining%20in%20python/)
+
+Natural-language-processing exercises that transform unstructured text into measurable features and predictive insights.
+
+Highlighted work:
+
+- Date extraction and normalization from messy medical records using regular expressions
+- Vocabulary analysis and spelling recommendations with NLTK
+- SMS spam classification
 - Sentiment analysis
-- Document similarity and paraphrase analysis
+- Document similarity and topic modeling
+- Text preprocessing, stemming, tokenization, and feature extraction
 
-## Technologies and Libraries
+### 5. Applied Social Network Analysis
 
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- NLTK
-- NetworkX
+[`Applied social network analysis in python/`](Applied%20social%20network%20analysis%20in%20python/)
+
+Graph-analysis projects focused on relationships, influence, connectivity, and connection prediction.
+
+Highlighted work:
+
+- Employee relationship and movie-preference networks
+- Email-network connectivity analysis
+- Centrality analysis of friendship and blog networks
+- Random-graph identification
+- Prediction of future network connections
+- Graph feature engineering and visualization
+
+## Technologies
+
+- **Languages:** Python
+- **Environment:** Jupyter Notebook
+- **Data analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib
+- **Machine learning:** Scikit-learn
+- **Statistics:** SciPy
+- **Natural language processing:** NLTK
+- **Network analysis:** NetworkX
 
 ## Project Structure
 
 ```text
 Data-science/
-├── Applied machine learning in python/
-│   ├── Assignment 1 Machine Learning.ipynb
-│   ├── Assignment 2 Regression and Machine Learning.ipynb
-│   ├── Assignment 3 SVC and Logistic regression.ipynb
-│   ├── Assignment 4 Logistic Regression.ipynb
-│   ├── Classifier Visualization.ipynb
-│   ├── Module 1- A simple classification task.ipynb
-│   ├── Module 2.ipynb
-│   ├── Module 3.ipynb
-│   ├── Module 4.ipynb
-│   ├── Unsupervised Learning.ipynb
-│   ├── adspy_shared_utilities.py
-│   ├── adspy_temp.dot
-│   ├── fruit_data_with_colors.txt
-│   └── mushrooms.csv
-├── Applied plotting, charting & data representation in python/
-│   ├── Assignment2.ipynb
-│   ├── Assignment3.ipynb
-│   ├── Assignment3.png
-│   ├── Assignment3_review1.ipynb
-│   ├── Assignment4.ipynb
-│   ├── Dejunking.ipynb
-│   ├── Matplotlib_3D.ipynb
-│   ├── UnderstandingDistributionsThroughSampling.ipynb
-│   ├── Week2.ipynb
-│   ├── Week3.ipynb
-│   ├── Week4.ipynb
-│   ├── files.tar.gz
-│   ├── iris.csv
-│   ├── moocdata.png
-│   ├── test.png
-│   └── test2.png
-├── Applied social network analysis in python/
-│   ├── A4_graphs
-│   ├── Assignment 1-Creating and Manipulating Graphs.ipynb
-│   ├── Assignment 2- Network Connectivity.ipynb
-│   ├── Assignment 3-Measures of centrality on two networks.ipynb
-│   ├── Assignment 4-Random graph identification and new Connections Prediction.ipynb
-│   ├── Employee_Movie_Choices.txt
-│   ├── Employee_Relationships.txt
-│   ├── Future_Connections.csv
-│   ├── G_adjlist.txt
-│   ├── G_edgelist.txt
-│   ├── Graph Features.ipynb
-│   ├── Loading Graphs in NetworkX.ipynb
-│   ├── Untitled.ipynb
-│   ├── Visualizing Graphs with NetworkX.ipynb
-│   ├── blogs.gml
-│   ├── chess_graph.txt
-│   ├── email_network.txt
-│   ├── email_prediction.txt
-│   ├── friendships.gml
-│   └── major_us_cities
-├── Applied text mining in python/
-│   ├── Assignment 1- Sorting date.ipynb
-│   ├── Assignment 2-NLTK.ipynb
-│   ├── Assignment 3- SPAM prediction.ipynb
-│   ├── Assignment 4.ipynb
-│   ├── Case Study - Sentiment Analysis.ipynb
-│   ├── Module 2 (Python 3).ipynb
-│   ├── Regex with Pandas and Named Groups.ipynb
-│   ├── Working With Text.ipynb
-│   ├── dates.txt
-│   ├── moby.txt
-│   ├── mygrammar.cfg
-│   ├── newsgroups
-│   ├── paraphrases.csv
-│   └── spam.csv
-├── Data science/
-│   ├── Assignment 1- Sorting date.ipynb
-│   ├── Assignment 2-NLTK.ipynb
-│   ├── Assignment 3- SPAM prediction.ipynb
-│   ├── Assignment 4.ipynb
-│   ├── Case Study - Sentiment Analysis.ipynb
-│   ├── Module 2 (Python 3).ipynb
-│   ├── Regex with Pandas and Named Groups.ipynb
-│   ├── Working With Text.ipynb
-│   ├── dates.txt
-│   ├── moby.txt
-│   ├── mygrammar.cfg
-│   ├── newsgroups
-│   ├── paraphrases.csv
-│   └── spam.csv
-└── README.md
+â”œâ”€â”€ Data Science/
+â”‚   â”œâ”€â”€ Week 1.ipynb
+â”‚   â”œâ”€â”€ Week 2.ipynb
+â”‚   â”œâ”€â”€ Week 3.ipynb
+â”‚   â”œâ”€â”€ Week 4.ipynb
+â”‚   â”œâ”€â”€ Assignment 2- Using pandas.ipynb
+â”‚   â”œâ”€â”€ Assignment 3-Using pandas.ipynb
+â”‚   â”œâ”€â”€ Assignment 4-Hypothesis Testing.ipynb
+â”‚   â””â”€â”€ supporting datasets
+â”œâ”€â”€ Applied machine learning in python/
+â”‚   â”œâ”€â”€ Assignments 1â€“4
+â”‚   â”œâ”€â”€ Modules 1â€“4
+â”‚   â”œâ”€â”€ Classifier Visualization.ipynb
+â”‚   â”œâ”€â”€ Unsupervised Learning.ipynb
+â”‚   â””â”€â”€ supporting datasets and utilities
+â”œâ”€â”€ Applied plotting, charting & data representation in python/
+â”‚   â”œâ”€â”€ Assignments 2â€“4
+â”‚   â”œâ”€â”€ Week 2â€“4 notebooks
+â”‚   â”œâ”€â”€ visualization exercises
+â”‚   â””â”€â”€ supporting datasets and images
+â”œâ”€â”€ Applied text mining in python/
+â”‚   â”œâ”€â”€ Assignments 1â€“4
+â”‚   â”œâ”€â”€ Case Study - Sentiment Analysis.ipynb
+â”‚   â”œâ”€â”€ text-processing notebooks
+â”‚   â””â”€â”€ supporting text datasets
+â”œâ”€â”€ Applied social network analysis in python/
+â”‚   â”œâ”€â”€ Assignments 1â€“4
+â”‚   â”œâ”€â”€ NetworkX demonstrations
+â”‚   â””â”€â”€ graph and relationship datasets
+â””â”€â”€ README.md
 ```
 
-## How to Explore the Repository
+## Getting Started
 
-Open any `.ipynb` file directly on GitHub to view the code, explanations, visualizations, and results. To run the notebooks locally, clone the repository and start Jupyter Notebook:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/AI-YAZMIN-VILLEGAS/Data-science.git
 cd Data-science
+```
+
+### 2. Create a virtual environment
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+On Windows:
+
+```powershell
+.venv\Scripts\activate
+```
+
+### 3. Install the principal libraries
+
+```bash
+pip install jupyter numpy pandas matplotlib scipy scikit-learn nltk networkx
+```
+
+### 4. Launch Jupyter Notebook
+
+```bash
 jupyter notebook
 ```
 
-Install any missing libraries as needed:
+Navigate to a subject folder and open the notebook you want to explore.
 
-```bash
-pip install pandas numpy matplotlib scikit-learn nltk networkx jupyter
-```
+> Some notebooks were developed with earlier Python or library versions. Minor updates may be needed to run them in a current environment.
 
-## Repository Purpose
+## Skills Demonstrated
 
-This repository demonstrates my ability to apply Python-based data-science techniques to structured data, text, and networks. It also reflects my continued development in analytical thinking, visualization, predictive modeling, and communicating results.
+- Cleaning and transforming structured and unstructured data
+- Performing exploratory data analysis
+- Creating clear statistical visualizations
+- Selecting and evaluating machine-learning models
+- Engineering features for text and network data
+- Applying statistical reasoning and hypothesis testing
+- Communicating analytical methods and results through reproducible notebooks
+
+## About This Repository
+
+This repository contains educational notebooks and completed assignments developed while studying applied data science. Course instructions, referenced datasets, and starter materials remain attributed to their respective authors and sources. The completed analyses and implementations document my learning and practical application of the techniques.
 
 ## Author
 
-**Yazmin Villegas**  
-Data Analyst | Data Scientist  
+**Yazmin Villegas**<br>
+Data Analyst | Data Scientist<br>
 [GitHub](https://github.com/AI-YAZMIN-VILLEGAS)
