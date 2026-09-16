@@ -88,7 +88,7 @@ Data-science:\
 │   ├── mygrammar.cfg \
 │   ├── newsgroups \
 │   ├── paraphrases.csv \
-│   └── spam.csv 
+│   └── spam.csv \
 └── README.md
 
 
