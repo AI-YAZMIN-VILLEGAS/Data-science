@@ -4,7 +4,7 @@ Data science portfolio
 
 This repo contains my data science portfolio in Python. This portfolio has several programming assignments of the Data Science specialization on Coursera.
 
-Applied machine learning in python:\
+Applied machine learning in python:
 
 Assignment 1 Machine Learning.ipynb\
 Assignment 2 Regression and Machine Learning.ipynb\
@@ -21,7 +21,7 @@ adspy_temp.dot\
 fruit_data_with_colors.txt\
 mushrooms.csv
 
-Applied plotting, charting & data representation in python:\
+Applied plotting, charting & data representation in python:
 
 Assignment2.ipynb \
 Assignment3.ipynb \
@@ -40,7 +40,7 @@ moocdata.png \
 test.png \
 test2.png 
 
-Applied social network analysis in python:\
+Applied social network analysis in python:
 
 A4_graphs \
 Assignment 1-Creating and Manipulating Graphs.ipynb \
@@ -63,7 +63,7 @@ email_prediction.txt \
 friendships.gml \
 major_us_cities 
 
-Applied text mining in python:\
+Applied text mining in python:
 
 Assignment 1- Sorting date.ipynb \
 Assignment 2-NLTK.ipynb \
@@ -80,7 +80,7 @@ newsgroups \
 paraphrases.csv \
 spam.csv 
 
-Data science:\
+Data science:
 
 Assignment 1- Sorting date.ipynb \
 Assignment 2-NLTK.ipynb \
