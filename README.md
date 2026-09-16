@@ -6,7 +6,6 @@ This repo contains my data science portfolio in Python. This portfolio has sever
 
 ## Project Structure
 Data-science:\
-
 ├── Applied machine learning in python:\
 │   ├── Assignment 1 Machine Learning.ipynb\
 │   ├── Assignment 2 Regression and Machine Learning.ipynb\
