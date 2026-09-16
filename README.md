@@ -4,22 +4,23 @@ Data science portfolio
 
 This repo contains my data science portfolio in Python. This portfolio has several programming assignments of the Data Science specialization on Coursera.
 
-Applied machine learning in python:
+## Project Structure
 
-Assignment 1 Machine Learning.ipynb\
-Assignment 2 Regression and Machine Learning.ipynb\
-Assignment 3 SVC and Logistic regression.ipynb\
-Assignment 4 Logistic Regression.ipynb\
-Classifier Visualization.ipynb\
-Module 1- A simple classification task.ipynb\
-Module 2.ipynb\
-Module 3.ipynb\
-Module 4.ipynb\
-Unsupervised Learning.ipynb\
-adspy_shared_utilities.py\
-adspy_temp.dot\
-fruit_data_with_colors.txt\
-mushrooms.csv
+Applied machine learning in python:\
+├── Assignment 1 Machine Learning.ipynb\
+├── Assignment 2 Regression and Machine Learning.ipynb\
+├── Assignment 3 SVC and Logistic regression.ipynb\
+├── Assignment 4 Logistic Regression.ipynb\
+├── Classifier Visualization.ipynb\
+├── Module 1- A simple classification task.ipynb\
+├── Module 2.ipynb\
+├── Module 3.ipynb\
+├── Module 4.ipynb\
+├── Unsupervised Learning.ipynb\
+├── adspy_shared_utilities.py\
+├── adspy_temp.dot\
+├── fruit_data_with_colors.txt\
+├── mushrooms.csv
 
 Applied plotting, charting & data representation in python:
 
