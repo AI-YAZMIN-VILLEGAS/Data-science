@@ -5,6 +5,7 @@ Data science portfolio
 This repo contains my data science portfolio in Python. This portfolio has several programming assignments of the Data Science specialization on Coursera.
 
 Applied machine learning in python:\
+
 Assignment 1 Machine Learning.ipynb\
 Assignment 2 Regression and Machine Learning.ipynb\
 Assignment 3 SVC and Logistic regression.ipynb\
@@ -18,9 +19,10 @@ Unsupervised Learning.ipynb\
 adspy_shared_utilities.py\
 adspy_temp.dot\
 fruit_data_with_colors.txt\
-mushrooms.csv\
+mushrooms.csv
 
 Applied plotting, charting & data representation in python:\
+
 Assignment2.ipynb \
 Assignment3.ipynb \
 Assignment3.png \
@@ -36,9 +38,10 @@ files.tar.gz \
 iris.csv \
 moocdata.png \
 test.png \
-test2.png \
+test2.png 
 
 Applied social network analysis in python:\
+
 A4_graphs \
 Assignment 1-Creating and Manipulating Graphs.ipynb \
 Assignment 2- Network Connectivity.ipynb \
@@ -58,9 +61,10 @@ chess_graph.txt \
 email_network.txt \
 email_prediction.txt \
 friendships.gml \
-major_us_cities \
+major_us_cities 
 
 Applied text mining in python:\
+
 Assignment 1- Sorting date.ipynb \
 Assignment 2-NLTK.ipynb \
 Assignment 3- SPAM prediction.ipynb \
@@ -74,9 +78,10 @@ moby.txt \
 mygrammar.cfg \
 newsgroups \
 paraphrases.csv \
-spam.csv \
+spam.csv 
 
 Data science:\
+
 Assignment 1- Sorting date.ipynb \
 Assignment 2-NLTK.ipynb \
 Assignment 3- SPAM prediction.ipynb \
@@ -90,7 +95,7 @@ moby.txt \
 mygrammar.cfg \
 newsgroups \
 paraphrases.csv \
-spam.csv \
+spam.csv 
 
 
 
